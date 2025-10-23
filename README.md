@@ -25,7 +25,7 @@ Backend-first MERN dev. I build dependable APIs, ship product features, and fix 
 - Live: `https://www.zevrochaap.com`
 
 ### Hackathon — **1st Place (college)**  
-- Solved a constrained coding problem and shipped a working HTML/CSS/JS web app within contest time. Repo: `https://github.com/DanishChaudhary/hackathon-1st` *(replace)*
+- Solved a constrained coding problem and shipped a working HTML/CSS/JS web app within contest time.
 
 > More projects and full READMEs in my repos. Check the pinned repos on my profile.
 
