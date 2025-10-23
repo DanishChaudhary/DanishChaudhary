@@ -31,13 +31,6 @@ Backend-first MERN dev. I build dependable APIs, ship product features, and fix 
 
 ---
 
-# 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DanishChaudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DanishChaudhary&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanishChaudhary&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 🔍 Quick facts / Highlights
 - Built **BrainMesh** — live product for vocab practice (MERN).  
 - Built client website **Zevrochaap** — production site for a franchise.  
